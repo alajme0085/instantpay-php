@@ -1,0 +1,19 @@
+{
+  "name": "instantpay/instantpay-php",
+  "description": "Official PHP library for the InstantPay API (Saudi merchant payments).",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "InstantPay\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  }
+}
