@@ -1,5 +1,5 @@
 {
-  "name": "instantpay/instantpay-php",
+  "name": "instantpay-sa/instantpay-php",
   "description": "Official PHP library for the InstantPay API (Saudi merchant payments).",
   "type": "library",
   "license": "MIT",

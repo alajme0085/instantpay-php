@@ -1,4 +1,4 @@
-# instantpay/instantpay-php
+# instantpay-sa/instantpay-php
 
 Official PHP library for the [InstantPay](https://developers.instantpay.sa) API. PHP 7.4+, needs
 only the curl and json extensions. Without Composer, `require 'src/autoload.php'`.
